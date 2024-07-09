@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+.caja {
+    align-items: center;
+    border: 3px solid blue;
+    margin-top: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.imagen {
+    width: 100%;
+    margin: 30px 0px;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: rgb(0, 0, 255);
+}
+
+.enlaces {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.imgInv {
+    display: flex;
+    justify-content: center;
+}
+
+#fechaHora{
+font-family: Arial;
+}
+
+#img1 {
+    width: 600px;
+    height: 350px;
+}
+
+#img2 {
+    width: 600px;
+    height: 350px;
+}
+
+#img3 {
+    width: 600px;
+    height: 350px;
+}
